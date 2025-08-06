@@ -1,7 +1,7 @@
 # sftp-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for SFTP
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for SFTP (beta)](https://www.cdata.com/download/download.aspx?sku=SFZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for SFTP (beta)](https://www.cdata.com/download/download.aspx?sku=SFZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data SFTP supported by the [CData JDBC Driver for SFTP](https://www.cdata.com/drivers/sftp/jdbc).
 
